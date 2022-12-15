@@ -1,8 +1,9 @@
- <!DOCTYPE html>
-<html>
+ <! DOCTYPE html>
+<.html>
 <head>
-<style>
-body
+</head>
+<body>
+
   <h1 style = "text-align:center">NIKE</h1>
     
     
@@ -17,4 +18,25 @@ body
       
     </p>
     
+    <h4>NIKE-NOGOMET</h4>
     
+    <p>
+  Prvo sponzorstvo Nike z Interjem v sezoni 1998-1999: tisti z ekipo Nerazzurri, ki še obstaja, je med naj trajalnejšimi vezmi ameriške multinacionalke v svetu nogometa.
+Nike je uradni dobavitelj žog, med drugim, za FA Premier League od leta 2000 in za Serie A league od 2007 do 2022. [10] Nike je tehnični sponzor več nogometnih ekip, vključno s klubi in reprezentancami. 
+
+<table style="border: 2px solid black; margin-left:auto;margin-right:auto;">
+  <Tr>
+    <td style="padding-top: 20px;" ><i>nike air force</i></td>
+    <td style="padding-top: 20px;" >nike air max</td>
+  </Tr>
+  <Tr>
+    <td><i>nike blazer</i></td>
+    <TD>Swoosh</td>
+  </Tr>
+  <Tr>
+    <TD>nike cortez</TD>
+  </Tr>
+  
+</table>
+   </body>
+    </html>
